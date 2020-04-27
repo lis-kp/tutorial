@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6179fb6-b7fe-4180-a95f-453fe4480038" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download/00_intro/sample_code/00_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/download/00_intro/sample_code/00_hello.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +27,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/download/00_intro/notebook" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/submissions" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/submissions" />
       <recent name="$PROJECT_DIR$/download/00_intro/notebook" />
     </key>
   </component>
@@ -43,8 +48,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00_hello">
-    <configuration name="00_hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.count_freq">
+    <configuration name="count_freq" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro/sample_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/sample_code/00_hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/count_freq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="luo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro/sample_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submissions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/sample_code/arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submissions/luo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="origuchi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro/sample_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submissions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/sample_code/dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submissions/origuchi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro/sample_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/sample_code/sort_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bert/similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_jp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sumida" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/download/00_intro/sample_code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/submissions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download/00_intro/sample_code/test_jp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submissions/sumida.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_hello" />
-        <item itemvalue="Python.test_jp" />
-        <item itemvalue="Python.sort_list" />
-        <item itemvalue="Python.dictionaries" />
-        <item itemvalue="Python.arrays" />
+        <item itemvalue="Python.count_freq" />
+        <item itemvalue="Python.origuchi" />
+        <item itemvalue="Python.similarity" />
+        <item itemvalue="Python.sumida" />
+        <item itemvalue="Python.luo" />
       </list>
     </recent_temporary>
   </component>
